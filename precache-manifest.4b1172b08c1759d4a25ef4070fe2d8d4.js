@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "777119901feb22e196fb",
-    "url": "/redux-tic-tac-toe/static/css/main.40c46a1c.chunk.css"
+    "revision": "989c3750c0bf5447b288",
+    "url": "/redux-tic-tac-toe/static/css/main.87b18390.chunk.css"
   },
   {
-    "revision": "777119901feb22e196fb",
+    "revision": "989c3750c0bf5447b288",
     "url": "/redux-tic-tac-toe/static/js/main.18e01ad5.chunk.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/redux-tic-tac-toe/static/js/2.c0bc99a3.chunk.js"
   },
   {
-    "revision": "44872bf443b8fb4a8ba657c675b0d081",
+    "revision": "7ca9ff5ea3cb239319f7993b265e6170",
     "url": "/redux-tic-tac-toe/index.html"
   }
 ];
